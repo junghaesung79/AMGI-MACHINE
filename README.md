@@ -1,0 +1,2 @@
+# AMGI-MACHINE
+암기머신
